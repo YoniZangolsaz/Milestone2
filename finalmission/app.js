@@ -1,8 +1,6 @@
 const fs = require('fs-extra');
 let prompt = require('prompt-sync')();
 
-// console.log(`press the right number ${num}`);
-
 let counter = 1;
 while(counter === 1 ) {
     

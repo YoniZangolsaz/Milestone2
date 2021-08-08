@@ -5,3 +5,9 @@ d.txt moved
 b.txt moved
 c.txt moved
 d.txt moved
+c.txt moved
+b.txt moved
+d.txt moved
+b.txt moved
+c.txt moved
+d.txt moved
