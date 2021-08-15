@@ -52,4 +52,3 @@ while(counter === 1 ) {
          
     }
 }
-

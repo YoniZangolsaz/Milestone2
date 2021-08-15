@@ -30,4 +30,3 @@ function jokes(){
         counter++;
     }
 }
-    

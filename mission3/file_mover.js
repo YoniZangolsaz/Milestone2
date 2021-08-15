@@ -9,7 +9,6 @@ setInterval(function() {
     filesName.forEach((fn) => {
     const from = `${oldPath}/${fn}`;
     const to = `${newPath}/${fn}`;
-
         fs.rename(from, to, (err) => {
             if (err) console.log(err);
 
